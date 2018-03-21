@@ -1,0 +1,51 @@
+.top{
+    background-color: #ffffff;
+    width: 960px;
+    border-bottom: 2px solid grey;
+    margin: 0;
+
+}
+
+
+#nameTop{
+    background-color: #4aaaa5;
+    color: beige;
+    float: left;
+    margin: 35px 50px 0px 15px;
+}
+
+.topLink{
+    list-style-type: none;
+    margin: 0px;
+    display: inline;
+    overflow: hidden;
+    background-color: #ffffff;
+    color: #666 
+}
+
+#list{
+    list-style-type: none;
+    display: inline; 
+}
+
+.aboutMe{
+    width: 960px;
+    padding: 50px;
+    border:rebeccapurple 50px 
+    
+}
+
+#img{
+    height: 150px;
+    width: 150px;
+    float: left;
+
+}
+
+#paper{
+    float: left;
+}
+
+.clearfix{
+    overflow: auto
+}
